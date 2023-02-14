@@ -1,0 +1,584 @@
+0	Domain	MBFC factual	Site Rank	W	MisinfoMe	Logically	Our.news	Get fact-checks for:
+1	100percentfedup.com	low	101,963	 	-0.91	low	problematic	100 Percent Fed Up
+2	10news.one	low	2,688,331	 	0.00	low	 	10News.one
+3	12minutos.com	low	330,294	 	-1.00	low	problematic	12minutos.com
+4	2020conservative.com	very-low	250,043	 	 	unknown	 	2020 Conservative
+5	2020electioncenter.com	very-low	2,542	 	0.60	low	 	Banned.Video
+6	24jours.com	low	438,149	 	0.25	unknown	problematic	24jours.com
+7	4chan.org	very-low	1,075	W	0.72	unknown	problematic	4Chan
+8	79days.news	very-low	75,838	 	-1.00	unknown	 	Banned.video
+9	911truth.org	low	900,437	 	0.40	low	problematic	911Truth.org
+10	aapsonline.org	low	266,505	W	-0.64	low	unverified	Association of American Physicians and Surgeons
+11	abovetopsecret.com	low	25,965	 	0.19	low	problematic	Above Top Secret
+12	acallforanuprising.com	low	1,148,615	 	-0.58	unknown	 	A Call for an Uprising
+13	actionnews3.com	very-low	1,639,157	 	-0.95	low	problematic	Action News 3
+14	activistpost.com	low	65,871	 	-0.79	low	problematic	Activist Post
+15	adflegal.org	low	235,690	W	-0.03	low	problematic	Alliance Defending Freedom
+16	afa.net	low	258,741	W	-0.71	low	unverified	American Family Association
+17	afn.net	low	720,540	 	 	unknown	 	American Family News
+18	aim4truth.org	very-low	199,732	 	0.00	low	problematic	American Intelligence Media
+19	allnewspipeline.com	low	119,886	 	-0.83	low	problematic	All News Pipeline
+20	alphanews.org	low	192,676	 	 	unknown	 	Alpha News
+21	alphanewsmn.com	low	316,986	 	0.00	low	 	Alpha News
+22	altermedzentrum.com	very-low	7,521,590	 	-0.44	unknown	problematic	Altermed Zentrum
+23	alternativenews.com	low	2,828,101	 	0.24	low	problematic	AlternativeNews.com
+24	althealthworks.com	low	411,488	 	0.60	low	problematic	AltHealth Works
+25	altleft.news	very-low	20,000,000	 	 	low	 	AltLeft.News
+26	altrighttv.com	low	2,501,588	 	-0.14	low	 	Alt-Right TV
+27	americamaxnews.com	low	494,950	 	-0.60	unknown	 	America Max News
+28	americanconservativemovement.com	low	249,171	 	-0.60	unknown	 	American Conservative Movement
+29	americanfreepress.net	low	460,516	W	-0.40	low	problematic	American Free Press
+30	americangulag.org	very-low	867,901	 	-0.14	unknown	 	American Gulag
+31	americanjournalreview.com	low	322,527	 	0.00	low	problematic	American Journal Review
+32	americanlibertyemail.com	low	796,135	 	 	unknown	 	American Liberty Report
+33	americanlookout.com	low	399,717	 	0.20	low	problematic	American Lookout
+34	americanpatriotdaily.com	low	158,425	 	-0.13	low	problematic	American Patriot Daily
+35	americanpeopledaily.com	low	678,656	 	0.00	unknown	 	American People Daily
+36	americanpolicy.org	low	4,188,492	 	0.24	unknown	 	American Policy Center
+37	americanprinciplesproject.org	low	7,206,620	W	-0.16	low	 	American Principles Project
+38	americansfortruth.com	very-low	3,649,691	W	-0.40	low	 	Americans for Truth about Homosexuality
+39	americanthinker.com	low	15,496	W	-0.71	low	problematic	American Thinker
+40	americantruthtoday.com	low	546,805	 	0.60	low	 	American Truth Today
+41	americasfreedomfighters.com	low	88,863	 	-0.77	unknown	problematic	Americas Freedom Fighters
+42	americasfrontlinedoctors.org	low	49,620	 	-0.67	unknown	 	America's Frontline Doctors
+43	amg-news.com	very-low	292,004	 	 	unknown	 	American Media Group
+44	amren.com	low	65,466	W	-0.12	low	verified	American Renaissance Magazine
+45	amtvmedia.com	low	1,000,462	 	0.20	low	problematic	Alternative Media Television (AMTV)
+46	anonhq.com	very-low	173,716	 	-0.25	low	problematic	We are Anonymous
+47	anyavien.com	very-low	2,000,570	 	-1.00	unknown	unverified	Anya Vien
+48	askingangels.com	very-low	3,609,058	 	-1.00	unknown	 	AskingAngels
+49	assassinationscience.com	low	4,276,349	 	-0.45	low	problematic	Assassination Science
+50	australiannationalreview.com	low	1,716,654	 	0.00	low	problematic	Australian National Review
+51	avoiceformen.com	low	214,865	W	0.76	low	 	A Voice for Men
+52	awarenessact.com	low	55,285	 	-0.94	low	problematic	Awareness Act
+53	banned.video	very-low	8,218	 	-0.87	low	unverified	Banned.nideo
+54	barenakedislam.com	low	122,795	 	-0.92	low	problematic	Bare Naked Islam
+55	bb4sp.com	low	487,623	 	-0.89	low	problematic	BB4SP
+56	beachbroadcastnews.com	very-low	197,831	 	 	unknown	 	Beach Broadcast
+57	beckernews.com	low	77,122	W	-1.00	unknown	 	Becker News
+58	beforeitsnews.com	low	16,416	W	-0.83	low	problematic	Before It's News
+59	bestnewshere.com	very-low	79,505	 	-0.95	unknown	unverified	Best News Here
+60	biggovernment.news	very-low	3,877,485	W	0.00	low	problematic	Big Government News
+61	bigleaguepolitics.com	low	88,039	W	-0.94	low	problematic	Big League Politics
+62	billionbibles.org	very-low	943,925	 	0.00	low	 	BillionBibles.org
+63	biodefense.com	very-low	20,000,000	 	0.00	low	problematic	BioDefense
+64	bipartisanreport.com	low	135,565	 	-0.15	low	problematic	Bipartisan Report
+65	bitchute.com	very-low	2,060	W	-0.78	low	unverified	BitChute
+66	blackeyepolitics.com	low	648,994	 	0.00	low	 	Black Eye Politics
+67	blackgenocide.org	low	3,251,119	 	-0.67	low	problematic	Black Genocide
+68	blingnews.com	low	3,966,576	 	-0.20	low	problematic	Blingnews.com
+69	bluntforcetruth.com	low	430,699	 	-0.81	low	unverified	Blunt Force Truth
+70	bonsens.info	low	6,930,216	 	 	low	 	BonSens
+71	brandnewtube.com	very-low	42,472	 	-0.85	unknown	 	Brand New Tube
+72	breaking911.com	very-low	107,352	 	-0.50	low	verified	Breaking911
+73	breakingchristiannews.com	low	850,195	 	0.32	low	problematic	Breaking Christian News
+74	breakingfirst.com	low	1,098,222	 	0.00	low	 	Breaking First
+75	breakingnews247.net	low	577,109	 	 	low	 	Breakingnews247.net
+76	brighteon.com	very-low	13,427	 	-0.77	unknown	problematic	Brighteon
+77	britainfirst.org	low	20,000,000	W	-0.60	low	 	Britain First
+78	bugout.news	very-low	7,562,706	W	0.00	low	problematic	Bugout.news
+79	campusinsanity.com	very-low	20,000,000	W	0.00	low	problematic	CampusInsanity
+80	canadafreepress.com	low	136,099	 	-0.62	low	problematic	Canada Free Press
+81	cancer.news	very-low	2,842,234	W	0.00	low	problematic	Cancer.news
+82	cap-news.com	very-low	7,164,955	 	-0.83	low	problematic	Cap News
+83	carm.org	low	91,110	W	0.46	low	problematic	Christian Apologetics & Research Ministry (CARM)
+84	cei.org	low	341,823	W	0.28	low	 	Competitive Enterprise Institute
+85	censored.news	low	341,119	 	-0.60	low	 	Censored.news
+86	cfact.org	low	538,026	W	0.20	low	problematic	The Committee for a Constructive Tomorrow (CFACT)
+87	childrenshealthdefense.org	low	78,475	W	-0.78	low	problematic	Children's Health Defense
+88	chlorellafactor.com	very-low	20,000,000	W	0.00	low	problematic	Chlorella Factor
+89	christianaction.org	low	500,176	W	0.00	low	 	Christian Action Network
+90	christianscience.com	low	178,497	W	0.24	low	problematic	Christian Science
+91	christiansfortruth.com	very-low	342,936	W	-0.96	low	 	Christians for Truth
+92	cityworldnews.com	very-low	16,006,975	 	-0.90	low	 	CityWorldNews
+93	clarionproject.org	low	208,275	W	0.24	low	 	Clarion Project
+94	clashdaily.com	low	160,053	 	-0.85	low	problematic	Clash Daily
+95	climate.news	very-low	5,384,066	W	0.00	low	 	Climate.News
+96	climatechangedispatch.com	low	782,598	 	-0.08	low	problematic	Climate Change Dispatch
+97	climatism.blog	low	1,160,373	 	0.00	low	problematic	Climatism
+98	cloverchronicle.com	low	1,065,138	 	0.00	low	 	Clover Chronicle
+99	cnnsofake.news	very-low	20,000,000	 	 	unknown	 	CNN So Fake News
+100	cnsnews.com	low	33,402	W	-0.69	low	verified	CNS News
+101	coasttocoastam.com	low	22,966	W	-0.08	low	problematic	Coast to Coast AM
+102	collapse.news	very-low	2,494,406	W	0.00	low	 	Collapse.News
+103	collective-evolution.com	low	24,058	 	-0.55	low	problematic	Collective Evolution
+104	concernedwomen.org	low	1,264,653	W	-0.38	unknown	 	Concerned Women for America
+105	conservativeammo.com	low	2,874,905	 	0.00	low	 	Conservative Ammo
+106	conservativebeaver.com	very-low	1,210,737	 	-1.00	unknown	 	Conservative Beaver
+107	conservativedailypost.com	low	52,389	 	-0.99	low	problematic	Conservative Daily Post
+108	conservativefreepress.com	low	498,141	 	0.00	low	 	Conservative Free Press
+109	conservativeplaylist.com	low	308,296	 	-0.59	unknown	 	Conservative Playlist
+110	conservativepost.com	low	775,568	 	-0.76	low	problematic	Conservative Post
+111	conspiracydailyupdate.com	very-low	376,327	 	-1.00	low	problematic	Conspiracy Daily Update
+112	consumerwellness.org	very-low	4,350,479	 	0.28	unknown	 	Consumer Wellness Center
+113	corbettreport.com	low	93,466	 	-0.92	low	problematic	The Corbett Report
+114	corona-transition.org	low	32,698	 	0.38	unknown	 	Corona Transition
+115	cosmicintelligenceagency.com	low	237,380	 	0.00	low	problematic	Cosmic Intelligence Agency
+116	counterthink.com	very-low	6,181,565	W	0.00	low	 	CounterThink.com
+117	covid19criticalcare.com	low	17,743	W	-0.56	unknown	 	FLCCC Alliance
+118	creation.com	low	55,961	 	0.22	low	problematic	Christian Ministries International
+119	csglobe.com	low	1,263,204	 	-0.87	low	problematic	CS Globe
+120	curiousmindmagazine.com	low	122,023	 	0.00	low	problematic	Curious Mind Magazine
+121	dagospia.com	low	1,273	W	0.66	unknown	 	Dagospia
+122	dailybuzzlive.com	very-low	1,425,259	W	-0.95	low	problematic	Daily Buzz Live
+123	dailyexpose.co.uk	very-low	250,150	 	0.00	unknown	 	The Daily Expose
+124	dailyheadlines.net	low	428,808	 	-1.00	low	unverified	Daily Headlines
+125	dailyhealthpost.com	low	142,158	 	-0.71	low	problematic	DailyHealthPost
+126	dailymail.co.uk	low	316	W	 	unknown	 	Daily Mail
+127	dailyoccupation.com	low	722,179	 	-1.00	low	problematic	Daily Occupation
+128	dailysceptic.org	very-low	100,630	 	0.15	unknown	 	Daily Sceptic
+129	dailystormer.su	very-low	78,915	W	-0.56	unknown	unverified	Daily Stormer
+130	dailysurge.com	low	202,999	 	-1.00	medium	problematic	Daily Surge
+131	darkjournalist.com	low	764,232	 	0.00	low	problematic	Dark Journalist
+132	dataasylum.com	low	2,507,356	 	-1.00	low	problematic	Data Asylum
+133	davidharrisjr.com	low	164,309	 	-1.00	low	verified	David Harris Jr
+134	davidicke.com	very-low	36,009	 	-0.79	low	problematic	David Icke
+135	dcclothesline.com	low	144,327	 	-0.62	low	problematic	The DC Clothesline
+136	dcdirtylaundry.com	very-low	78,280	 	0.00	low	problematic	DC Dirty Laundry
+137	dcgazette.com	low	3,708,726	W	-0.89	low	problematic	DC Gazette
+138	de.rt.com	very-low	346	W	-0.00	unknown	 	RT DE
+139	defconnews.com	low	348,545	 	 	low	unverified	Def-Con News
+140	defendingtherepublic.org	very-low	225,001	 	 	unknown	 	Defending the Republic
+141	defiantamerica.com	low	2,691,233	 	0.00	low	 	Defiant America
+142	deplorablekel.com	low	467,402	 	0.00	low	 	Deplorable Kel
+143	digifection.com	low	658,363	 	-0.98	unknown	 	The Times of America
+144	disclose.tv	low	27,647	W	-0.78	low	problematic	Disclose TV
+145	discoverthenetworks.org	low	689,724	W	0.54	low	 	Discover the Networks
+146	discovery.org	low	393,423	W	0.12	low	problematic	Discovery Institute
+147	distributednews.com	very-low	138,257	 	-1.00	low	 	Hang The Censors
+148	djhjmedia.com	low	37,321	 	-0.80	low	unverified	BitChute
+149	doctors4covidethics.org	very-low	251,712	 	-0.26	unknown	 	Doctors for Covid Ethics
+150	donaldjtrump.com	low	21,643	W	-0.58	unknown	unverified	Save America
+151	drnorthrup.com	low	384,664	W	0.22	unknown	 	DrNorthrup.com
+152	earthpulse.com	low	3,286,750	 	0.20	low	problematic	Earthpulse Press
+153	echocheck.org	very-low	20,000,000	 	-1.00	unknown	 	Echo Check
+154	ecology.news	very-low	4,189,190	W	0.00	low	 	Ecology News
+155	educate-yourself.org	very-low	189,941	 	-0.20	low	problematic	Educate Yourself
+156	electroverse.net	low	335,147	 	0.00	low	unverified	Electroverse
+157	empireherald.com	low	15,343,499	W	-1.00	low	problematic	Empire Herald
+158	en-volve.com	very-low	326,775	 	-1.00	low	problematic	En-volve
+159	en.metapedia.org	low	60,690	W	-0.36	low	 	Metapedia
+160	en.newsner.com	very-low	60,852	 	0.00	unknown	 	Newsner
+161	endthefed.org	low	1,917,909	 	0.00	low	 	End the Fed
+162	escapeallthesethings.com	low	1,117,542	 	0.38	low	problematic	Escape all these Things
+163	eugenics.news	very-low	4,619,005	 	0.00	low	problematic	Eugenics.News
+164	europereloaded.com	low	570,373	 	 	unknown	 	Europe Reloaded
+165	eutimes.net	low	746,635	 	-0.13	low	problematic	The European Union Times
+166	everylegalvote.com	low	61,873	 	0.00	unknown	 	Every Legal Vote
+167	evil.news	low	9,016,680	W	0.00	unknown	 	Evil.News
+168	evolutionnews.org	low	147,408	 	0.12	low	problematic	Evolution News and Views
+169	explainlife.com	very-low	240,818	 	-1.00	unknown	unverified	Explain Life
+170	fairus.org	low	149,084	W	0.24	unknown	 	The Federation for American Immigration Reform
+171	fellowshipoftheminds.com	low	109,424	 	-0.91	low	problematic	Fellowship of the Minds
+172	focusonthefamily.com	low	33,829	W	0.66	low	unverified	Focus on the Family
+173	food.news	very-low	2,704,667	W	0.00	low	 	Food.News
+174	foreverconscious.com	low	189,774	 	0.32	low	problematic	Forever Conscious
+175	fortherightnews.com	low	4,561,531	 	0.00	low	 	For the Right News
+176	fr.sputniknews.com	very-low	1,047	W	0.04	low	problematic	Sputnik France
+177	frankspeech.com	very-low	22,147	W	0.60	unknown	 	Frank Speech
+178	frc.org	low	171,433	W	0.24	low	unverified	Family Research Council
+179	free-speechfront.info	low	4,392,810	 	-0.60	unknown	 	Free-Speech Front
+180	freedom.news	very-low	20,000,000	W	0.00	low	problematic	Freedom.News
+181	freedomadvocates.org	low	5,095,191	 	0.00	low	problematic	Freedom Advocates
+182	freedomainradio.com	low	332,816	W	-0.33	low	problematic	Freedomain Radio
+183	freedomdaily.com	low	8,199,533	 	-0.97	low	problematic	Freedom Daily
+184	freedomfirstnetwork.com	low	86,244	 	-0.60	unknown	 	Freedom First Network
+185	freedomproject.com	low	2,917,368	 	0.12	unknown	unverified	FreedomProject Media
+186	freeworldnews.tv	very-low	66,866	 	0.00	unknown	 	Banned.Video
+187	friatider.se	low	146,672	 	-0.83	unknown	 	Fria Tider
+188	fromthetrenchesworldreport.com	low	361,089	 	-0.54	low	problematic	From the Trenches World Report
+189	frontpagemag.com	low	53,181	W	-0.71	low	problematic	FrontPage Magazine
+190	fury.news	very-low	7,548,165	 	0.00	low	unverified	Fury News
+191	gaia.com	low	18,355	 	-0.04	low	problematic	Gaia
+192	gellerreport.com	low	83,508	W	-0.97	low	problematic	Geller Report
+193	gender.news	very-low	20,000,000	 	 	unknown	 	Gender.news
+194	geoengineering.news	very-low	20,000,000	W	0.00	low	 	Geoengineering.News
+195	geoengineeringwatch.org	low	218,564	 	-0.61	low	problematic	GeoEngineering Watch
+196	geopol.institute	low	1,584,225	 	0.00	unknown	 	Geopolitical Studies Institute
+197	getholistichealth.com	low	288,994	 	-0.93	low	problematic	Get Holistic Health
+198	gettr.com	low	10,803	W	-0.58	unknown	 	GETTR
+199	glitch.news	very-low	4,703,013	 	0.20	low	 	Glitch.News
+200	globalinfotoday.com	low	20,000,000	 	0.00	low	 	Global Info Today
+201	globalresearch.ca	low	26,012	W	-0.77	low	problematic	Global Research
+202	globalskywatch.com	low	1,422,431	 	0.00	low	 	Global Skywatch
+203	globemagazine.com	very-low	2,751,943	 	0.22	low	 	Globe Magazine
+204	gmo.news	very-low	20,000,000	W	-0.22	low	 	GMO.News
+205	gnews.org	low	22,665	 	-0.58	low	problematic	Gnews
+206	godandscience.org	low	549,935	 	0.66	low	problematic	Evidence for God from Science
+207	godlikeproductions.com	low	12,222	 	-0.67	low	problematic	Godlike Productions
+208	goodgopher.com	very-low	413,031	 	0.00	low	 	GoodGopher
+209	goodsciencing.com	very-low	80,921	 	0.60	unknown	 	Real Science
+210	goop.com	low	13,260	W	0.62	low	unverified	Goop
+211	gotquestions.org	low	6,153	 	0.78	low	problematic	Got Questions
+212	govtslaves.com	low	20,000,000	 	0.00	low	problematic	Government Slaves
+213	grainoftruth.ca	very-low	1,827,170	 	0.00	low	 	Grain of Truth
+214	greatamericandaily.com	low	282,103	 	0.00	low	 	Great American Daily
+215	greatamericanrepublic.com	low	4,166,209	 	0.00	low	unverified	Great American Republic
+216	greatreject.org	very-low	270,084	 	-0.91	unknown	 	GreatReject
+217	greenmedinfo.com	low	55,143	 	-0.64	low	problematic	GreenMedInfo
+218	greenvillegazette.com	low	3,724,708	 	0.00	unknown	unverified	Greenville Gazette
+219	gulagbound.com	low	2,485,234	 	-0.33	low	problematic	Gulag Bound
+220	hagmannreport.com	low	1,215,502	 	0.24	unknown	 	Hagmann Report
+221	halturnerradioshow.com	very-low	91,611	W	-0.57	low	unverified	Hal Turner Radio Show
+222	hangthebankers.com	low	596,098	 	-0.78	low	 	Hang The Bankers
+223	hannity.com	low	69,187	W	-0.15	low	verified	Sean Hannity
+224	healingfoodreference.com	very-low	2,981,377	 	0.50	low	 	Healing Food Reference
+225	healingoracle.ch	very-low	1,132,882	 	0.00	low	problematic	Healing Oracle
+226	health.news	very-low	957,767	W	0.00	low	problematic	Health.News
+227	healthimpactnews.com	very-low	184,109	 	-0.76	low	problematic	Health Impact News
+228	healthnutnews.com	very-low	85,465	 	-0.85	low	problematic	Health Nut News
+229	healthranger.com	very-low	2,517,608	 	-0.14	low	 	The Health Ranger
+230	healthrangerreport.com	very-low	1,357,638	W	0.00	low	problematic	Health Ranger Report
+231	healthy-holistic-living.com	low	61,516	 	-0.85	low	problematic	Healthy Holistic Living
+232	healthyfoodhouse.com	low	41,171	 	-0.33	low	problematic	Healthy Food House
+233	heartland.org	low	314,281	W	-0.28	low	unverified	Heartland Institute
+234	herbreference.com	very-low	4,217,904	 	0.00	low	 	Herbreference.com
+235	hoggwatch.com	low	3,451,464	W	0.00	low	 	Hogg Watch
+236	homevaccineeducationnetwork.com	very-low	20,000,000	 	 	unknown	 	Home Vaccine Education Network
+237	hsionline.com	low	648,601	 	0.00	low	problematic	Health Sciences Institute
+238	humansarefree.com	low	96,003	 	-0.57	low	problematic	Humans are Free
+239	iceagenow.info	low	434,235	 	0.24	low	problematic	Ice Age Now
+240	icr.org	very-low	114,323	 	-0.19	low	 	Institute for Creation Research (IRC)
+241	ihatethemedia.com	low	1,238,104	 	0.50	low	 	I Hate the Media
+242	ihealthtube.com	low	804,636	 	0.44	low	problematic	iHealthtube.com
+243	ihr.org	very-low	335,362	W	-0.24	low	 	Institute for Historical Review (IHR)
+244	illicitinfo.com	low	269,313	 	0.00	low	 	Illicit Info
+245	illuminatiwatcher.com	low	544,983	 	-0.89	low	problematic	Illuminati Watcher
+246	ilovemyfreedom.org	very-low	61,855	 	-1.00	low	 	I Love My Freedom
+247	infiniteunknown.net	low	549,776	 	-0.47	low	problematic	Infinite Unknown
+248	infogalactic.com	low	107,104	W	0.00	low	 	InfoGalactic
+249	informationliberation.com	low	92,020	 	-0.85	unknown	problematic	Information Liberation
+250	inforos.ru	low	564,067	 	0.22	low	 	InfoRos.ru
+251	infowars.com	very-low	4,158	W	-0.88	low	problematic	Infowars
+252	ingredients.news	very-low	9,416,739	W	0.00	low	 	Ingredients.News
+253	intellihub.com	low	151,112	 	-0.66	low	problematic	Intellihub
+254	iowaclimate.org	low	5,736,613	 	0.00	low	problematic	Iowa Climate Science Education
+255	israelislamandendtimes.com	low	827,742	 	0.00	low	problematic	Israel, Islam and End Times
+256	it.sputniknews.com	very-low	1,047	W	0.28	low	problematic	Sputnik Italia
+257	jedanews.com	low	2,318,392	 	 	medium	 	Jeda News
+258	jesus-is-savior.com	very-low	125,795	 	-0.34	low	problematic	Jesus is Savior
+259	jesusdaily.com	low	445,389	 	0.60	low	problematic	Jesus Daily
+260	joebiden.news	very-low	3,704,017	 	0.00	low	 	Joe Biden News
+261	judicialwatch.org	low	52,168	W	0.23	low	unverified	Judicial Watch
+262	junkscience.com	low	671,381	 	0.34	low	problematic	JunkScience.com
+263	knowledgeoftoday.org	low	1,231,221	 	-0.47	low	 	Knowledge of Today
+264	larouchepac.com	low	151,717	W	0.42	low	problematic	LaRouche PAC
+265	learntherisk.org	very-low	1,015,206	W	0.00	low	problematic	LearnTheRisk.org
+266	leftaction.com	low	2,899,350	 	0.48	low	unverified	Left Action
+267	leftcult.com	very-low	3,357,840	 	0.00	low	 	LeftCult
+268	leftexposed.org	low	2,647,658	 	0.00	low	 	Left Exposed
+269	lesmoutonsrebelles.com	very-low	3,162,217	 	-0.98	unknown	problematic	Moutons Rebelles
+270	lewrockwell.com	low	43,237	W	0.10	low	unverified	Lew Rockwell
+271	liberty.news	very-low	3,754,007	W	0.00	low	 	Liberty.News
+272	libertybell.com	low	2,369,605	 	-0.28	unknown	 	Liberty Bell
+273	libertyhangout.org	low	671,279	W	0.00	medium	unverified	Liberty Hangout
+274	libertyplanets.com	very-low	636,261	 	 	unknown	 	Liberty Planet
+275	libertyvideos.org	low	16,953,997	 	-0.67	low	problematic	Liberty Videos
+276	libtards.news	very-low	8,087,318	W	0.00	low	 	Libtards.News
+277	lifenews.com	low	73,063	 	-0.73	medium	verified	Life News
+278	lifesitenews.com	low	31,358	 	-0.16	low	unverified	Life Site News
+279	lifespa.com	low	108,758	 	0.00	low	problematic	LifeSpa
+280	lindelltv.com	very-low	124,895	W	-1.00	unknown	 	Lindell TV
+281	londonwebnews.com	low	9,122,758	 	0.00	low	problematic	London Web News
+282	loonwatch.com	low	3,630,876	 	0.00	low	 	LoonWatch
+283	madworldnews.com	low	154,163	 	-0.69	low	problematic	Mad World News
+284	mainstreamfakemedia.com	low	4,062,382	 	 	unknown	 	Mainstream Fake Media
+285	mediafactwatch.com	very-low	4,296,371	W	0.00	low	problematic	Media Fact Watch
+286	medicalkidnap.com	very-low	388,625	 	-1.00	low	problematic	Medical Kidnap
+287	medicalmedium.com	low	87,680	W	0.24	low	problematic	Medical Medium
+288	medicine.news	low	5,074,305	W	0.00	low	problematic	Medicine News
+289	meforum.org	low	218,826	W	0.64	low	 	Middle East Forum
+290	mercola.com	low	6,133	W	0.00	low	problematic	Mercola
+291	merica1st.com	low	946,379	 	-0.60	unknown	 	National Conservative
+292	micdroppolitics.com	low	1,523,661	 	 	medium	unverified	Mic Drop Politics
+293	mixi.media	low	42,288	 	0.00	low	 	Mixi.Media
+294	moonbattery.com	low	317,014	 	0.64	low	 	MoonBattery
+295	mtonews.com	low	19,722	 	0.60	unknown	unverified	MTO News
+296	myrightamerica.com	low	10,467,000	 	0.00	low	 	My Right American
+297	natall.com	very-low	2,928,699	W	-0.54	low	 	National Alliance
+298	nationaleconomicseditorial.com	low	1,649,565	 	0.20	low	 	National Economics Editorial
+299	nationalenquirer.com	low	55,172	W	-0.68	low	unverified	National Enquirer
+300	nationalfile.com	low	51,619	 	-0.68	low	problematic	National File
+301	nationalinsiders.com	low	1,377,414	 	 	unknown	 	National Insiders
+302	nationalrighttolifenews.org	low	1,014,698	 	0.54	low	 	NRL News Today
+303	nationalsecurity.news	very-low	8,581,318	W	0.00	low	 	NationalSecurity.News
+304	nationalvanguard.org	very-low	138,165	W	-0.41	low	unverified	National Vanguard
+305	naturalmedicine.news	very-low	3,935,491	W	0.00	low	problematic	NaturalMedicine.News
+306	naturalnews.com	very-low	18,138	W	-0.95	low	problematic	Natural News
+307	naturalnewsblogs.com	very-low	289,298	W	-0.80	low	 	NaturalNewsBlogs
+308	naturalnewsradio.com	very-low	3,023,044	W	0.00	low	problematic	Natural News Radio
+309	naturalpedia.com	very-low	1,054,871	W	0.00	low	 	NaturalPedia.com
+310	navarroreport.com	low	290,190	W	0.00	unknown	 	The Navarro Report
+311	needtoknow.news	low	145,567	 	0.00	low	problematic	Need to Know
+312	neonnettle.com	low	66,999	W	-0.94	low	problematic	Neon Nettle
+313	newamericannews.com	low	13,193,223	 	0.00	low	problematic	New American News
+314	newnation.org	very-low	1,929,909	 	-0.24	low	 	New Nation News
+315	newsexaminer.net	low	2,892,385	W	 	low	 	NewsExaminer.net
+316	newsfeedhunter.com	low	20,000,000	 	-0.95	low	problematic	News Feed Hunter
+317	newsheist.com	low	6,804,930	 	0.00	medium	 	News Heist
+318	newshourfirst.com	low	1,092,619	 	-0.60	unknown	 	News Hour First
+319	newsinsideout.com	low	1,684,680	 	0.00	low	problematic	News Inside Out
+320	newspunch.com	very-low	158,612	W	-0.93	low	problematic	News Punch
+321	newspushed.com	low	362,232	 	0.00	low	 	News Pushed
+322	newstarget.com	low	143,501	W	-0.85	low	problematic	News Target
+323	newsview.gr	very-low	435,530	 	-0.93	unknown	 	Newsview
+324	newswars.com	low	63,937	 	-1.00	low	unverified	NewsWars
+325	newswithviews.com	low	196,438	 	-0.08	low	unverified	News with Views
+326	noqreport.com	low	39,130	 	-0.58	medium	 	NOQ Report
+327	notallowedto.com	low	978,627	 	-0.92	low	problematic	Not Allowed to
+328	notrickszone.com	low	521,247	 	-0.76	low	problematic	NoTricksZone
+329	now8news.com	very-low	1,741,848	W	-0.96	low	problematic	Now8News
+330	nowtheendbegins.com	low	70,636	 	-0.66	low	problematic	Now The End Begins
+331	npr.news	very-low	5,528,157	 	-0.60	low	 	NPR News
+332	nrlc.org	low	1,688,241	W	0.72	low	 	National Right to Life Committee
+333	nutrientreference.com	very-low	1,073,225	 	0.22	low	 	NutrientReference.com
+334	nvic.org	low	169,286	W	-0.32	low	problematic	National Vaccine Information Institute
+335	oann.com	low	44,743	W	-0.38	medium	problematic	One America News Network
+336	oathkeepers.org	low	285,785	W	-0.45	low	unverified	Oath Keepers
+337	occupydemocrats.com	low	1,078,213	W	-0.18	low	problematic	Occupy Democrats
+338	organicconsumers.org	low	159,175	W	-0.12	low	problematic	Organic Consumers Association
+339	other98.com	low	1,203,733	 	-0.06	unknown	 	The Other 98%
+340	outragedpatriot.com	low	225,821	 	0.00	unknown	 	Outraged Patriot
+341	oye.news	low	1,793,791	 	0.00	low	problematic	OYE News
+342	pacificpundit.com	low	718,857	 	0.00	low	 	Pacific Pundit
+343	pakalertpress.com	low	5,023,384	 	-0.61	low	 	Pak Alert Press
+344	pandemic.news	very-low	227,086	W	0.00	low	problematic	Pandemic News
+345	pantsonfirenews.com	low	344,493	 	0.00	low	 	Pants on Fire News
+346	parler.com	low	816	W	-0.72	unknown	platform	Parler
+347	patribotics.blog	low	402,918	W	-0.66	low	 	Patribotics Blog
+348	patriotfetch.com	low	385,886	 	0.60	unknown	 	Patriot Fetch
+349	patriotfires.com	low	18,546,520	 	0.00	low	 	Patriot Fires
+350	patriotfront.us	very-low	3,998,368	W	-0.97	low	 	Patriot Front
+351	patrioticviralnews.com	low	382,673	 	0.00	low	 	Patriotic Viral News
+352	patriots4truth.org	very-low	1,774,180	 	-0.86	low	 	Patriots For Truth
+353	pcmustdie.com	low	1,586,293	 	0.00	low	 	PC Must Die News
+354	pdmj.org	very-low	668,616	 	0.00	unknown	 	Primary Doctor Medical Journal
+355	personalinterpretation.com	low	7,968,385	 	-0.60	unknown	 	Personal Interpretation
+356	personalliberty.com	low	785,189	 	0.54	low	unverified	Personal Liberty
+357	political-discussion.com	low	5,062,616	 	-0.60	low	 	PoliticalDiscussion
+358	politicsonline.net	low	4,352,561	 	-1.00	unknown	unverified	PoliticsOnline.Net
+359	politifact.news	low	16,319,992	 	0.00	low	 	Poltifact News
+360	pollution.news	very-low	1,392,194	 	0.00	low	 	Pollution News
+361	pop.org	low	622,251	W	0.20	low	 	Population Research Institute
+362	populist.press	low	20,077	 	-0.10	unknown	 	Populist Press
+363	populistpress.com	low	28,811	 	0.60	unknown	 	Populist Press
+364	powderedwigsociety.com	low	1,281,466	 	0.00	low	problematic	Powdered Wig Society
+365	prageru.com	low	70,515	W	-0.72	low	unverified	PragerU
+366	pravdareport.com	very-low	95,427	W	-0.74	low	 	Pravda Report
+367	prepareforchange.net	low	150,007	 	0.22	low	problematic	Prepare for Change
+368	presscalifornia.com	very-low	106,716	 	0.00	unknown	 	Press California
+369	presstv.com	low	9,605	W	-0.27	low	problematic	Press TV
+370	principia-scientific.com	low	113,087	 	-0.04	unknown	unverified	Principia Scientific
+371	principia-scientific.org	low	445,805	 	0.14	low	problematic	Principia Scientific International
+372	prisonplanet.com	very-low	62,113	W	0.19	low	problematic	Prison Planet
+373	prntly.com	low	623,406	W	-0.90	low	problematic	Prntly
+374	profam.org	low	8,988,247	 	0.00	unknown	 	International Organization for the Family
+375	progressivestoday.com	low	20,000,000	 	-0.30	low	 	Progressives Today
+376	prophecynewswatch.com	low	236,817	 	0.48	low	problematic	Prophecy News Watch
+377	prophecytoday.com	low	1,021,648	 	0.24	low	problematic	Prophecy Today
+378	protrumpnews.com	low	218,607	 	0.60	low	 	Pro Trump News
+379	qanon.pub	very-low	44,694	 	-0.78	low	problematic	Q
+380	rairfoundation.com	low	101,559	 	0.60	unknown	 	RAIR Foundation USA
+381	randpaul.news	very-low	20,000,000	 	-0.60	low	 	RandPaul.News
+382	rapturenewsnetwork.com	low	4,761,272	 	0.00	low	problematic	Rapture News Network
+383	realclimatescience.com	low	299,724	 	-0.82	low	problematic	Real Climate Science
+384	realconservativesunite.com	low	20,000,000	 	 	unknown	 	Real Conservatives Unite
+385	realfarmacy.com	low	85,569	 	-0.56	low	problematic	REALfarmacy.com
+386	realjewnews.com	very-low	432,297	 	0.02	low	problematic	Real Jew News
+387	realnews24.com	low	2,902,001	 	0.22	low	problematic	Real News 24
+388	redice.tv	low	172,575	W	-0.88	low	 	Red Ice TV
+389	redpillpodcasts.com	very-low	935,508	 	 	unknown	 	RedPill Project
+390	redstatewatcher.com	low	87,773	 	-0.96	low	problematic	Red State Watcher
+391	redvoicemedia.com	low	50,767	 	-0.58	unknown	 	Red Voice Media
+392	redwhiteandright.com	low	8,531,849	 	0.00	low	 	Red, White and Right
+393	reformedmedia.net	low	935,495	 	 	unknown	 	Reformed Media
+394	remnantnewspaper.com	low	369,830	W	0.34	unknown	 	The Remnant Newspaper
+395	renewamerica.com	low	493,605	W	-0.10	—	 	Renew America
+396	rense.com	very-low	40,996	W	0.03	low	problematic	Rense
+397	researchantisemitism.ca	low	20,000,000	 	0.00	low	 	Center for Research of Radicalism and National Security
+398	returnofkings.com	low	27,269	 	0.04	unknown	 	Return of Kings
+399	returntonow.net	low	73,190	 	0.00	low	problematic	Return to Now
+400	revolutionradio.org	low	2,550,078	 	-0.82	low	problematic	Revolution Radio
+401	ria.ru	low	310	W	0.69	unknown	 	RIA Novosti
+402	righterway.com	low	20,000,000	 	0.00	low	 	Righter Way
+403	rightsidenews.com	low	1,164,585	 	0.74	unknown	 	Right Side News
+404	rightwing.news	low	2,311,878	 	0.00	low	 	Right Wing News
+405	rightwingnews.com	low	385,679	 	0.21	unknown	unverified	Right Side News
+406	rightwingtribune.com	low	320,218	 	-1.00	low	problematic	Right Wing Tribune
+407	rinf.com	low	1,537,065	W	0.07	low	 	RINF
+408	ripostelaique.com	very-low	1,236,985	 	-0.91	unknown	problematic	Riposte Laique
+409	rodong.rep.kp	very-low	73,293	W	 	unknown	 	Rodong Sinmun (North Korea)
+410	roguereview.net	low	1,096,604	 	 	unknown	 	Rogue Review
+411	rsbnetwork.com	low	96,642	 	-0.28	unknown	 	Right Side Broascasting Network
+412	rt.com	very-low	294	W	0.04	low	problematic	RT News
+413	rumble.com	low	1,304	W	-0.80	unknown	 	Rumble
+414	rushlimbaugh.com	very-low	31,084	W	-0.76	low	problematic	The Rush Limbaugh Show
+415	russia-insider.com	low	22,909	W	-0.88	low	 	Russia Insider
+416	ruthinstitute.org	low	8,032,443	W	0.02	unknown	 	Ruth Institute
+417	sanevax.org	low	1,527,914	 	-0.32	low	problematic	SaneVax
+418	santeplusmag.com	low	92,479	 	-0.84	unknown	 	Sante Plus Magazine
+419	savethemales.ca	low	857,663	 	0.40	low	problematic	Henry Makow
+420	science.news	very-low	2,584,116	 	-0.44	low	problematic	Science.news
+421	secondamendmentdaily.com	low	402,550	 	0.00	low	 	2nd Amendment Daily News
+422	sgtreport.com	low	81,343	 	0.30	low	problematic	SGT Report
+423	sheepkillers.com	low	20,000,000	 	-1.00	low	problematic	Sheep Killers
+424	shoebat.com	low	234,007	W	-0.80	low	problematic	Shoebat
+425	shtfplan.com	low	71,239	 	-0.32	low	unverified	SHTFplan.com
+426	sickchirpse.com	very-low	184,898	 	-0.72	low	 	Sick Chirpse
+427	skeptiko.com	very-low	574,910	 	-0.59	low	problematic	Skeptiko
+428	smobserved.com	low	974,694	 	0.00	unknown	 	Santa Monica Observer
+429	snanews.de	very-low	179,211	W	-0.44	unknown	 	Sputnik Germany
+430	snopes.news	very-low	20,000,000	 	-0.50	low	 	Snopes News
+431	sonsof1776.com	low	1,031,627	 	0.00	low	 	Sons of 1776
+432	sonsoflibertymedia.com	low	113,190	 	 	unknown	 	Sons of Liberty Media
+433	sott.net	low	24,484	 	-0.80	low	problematic	Signs of the Times
+434	southfront.org	low	37,014	 	0.14	low	unverified	South Front
+435	space.news	very-low	4,584,279	W	0.00	low	problematic	Space News
+436	speech-point.com	low	20,000,000	 	-0.60	unknown	unverified	Speech Point
+437	sputniknews.com	very-low	630	W	-0.11	low	problematic	Sputnik
+438	squawker.org	low	4,140,731	 	0.00	low	 	Squawker
+439	staresattheworld.com	low	2,208,490	 	0.00	unknown	 	Stares at the World
+440	stateofthenation.co	low	125,516	 	0.00	unknown	 	State of the Nation
+441	stateofthenation2012.com	low	108,514	 	-0.93	unknown	unverified	State of the Nation 2012
+442	stillnessinthestorm.com	low	84,068	 	0.00	low	problematic	Stillness in the Storm
+443	stonecoldtruth.com	low	375,390	 	0.20	unknown	 	Stone Cold Truth
+444	stormcloudsgathering.com	low	1,295,672	 	-0.44	low	 	Storm Clouds Gathering
+445	stormfront.org	very-low	53,395	W	-0.37	low	problematic	Stormfront
+446	strategic-culture.org	very-low	138,978	 	0.20	low	unverified	Strategic Culture Foundation
+447	summit.news	low	50,818	 	-0.90	low	unverified	Summit News
+448	supplementreference.com	very-low	5,487,696	 	0.20	low	 	SupplementReference.com
+449	supportisraelnow.com	low	4,301,173	 	-0.60	unknown	 	Support Israel Now
+450	survivalblog.com	low	133,874	W	0.78	unknown	 	SurvivalBlog.com
+451	sustainablepulse.com	low	585,841	 	0.34	low	problematic	Sustainable Pulse
+452	swampdrain.com	low	1,175,192	 	0.00	unknown	 	SwampDrain.com
+453	swarajyamag.com	low	18,044	W	-0.80	low	unverified	Swarajya
+454	syrianews.cc	low	878,865	 	0.00	low	unverified	Syria News
+455	takimag.com	low	70,587	W	-0.32	unknown	 	Taki's Magazine
+456	talknetwork.com	very-low	7,337,096	 	0.00	low	 	Talk Network
+457	teaparty.org	low	69,876	 	-0.72	unknown	problematic	Tea Party
+458	technocracy.news	very-low	163,980	 	-1.00	low	problematic	Technocracy News
+459	tfp.org	low	535,195	W	0.16	low	 	American Society for the Defense of Tradition, Family, and Property
+460	thealternativedaily.com	low	54,778	 	-0.30	unknown	problematic	Alternative Daily
+461	theamericanmirror.com	low	41,184	 	-0.86	unknown	problematic	The American Mirror
+462	theautomaticearth.com	low	747,143	 	-0.46	high	 	The Automatic Earth
+463	thebeardedpatriot.com	low	690,029	 	0.00	low	unverified	The Bearded Patriot
+464	thebreakingnews.com	low	7,086,220	 	0.20	unknown	 	The Breaking News
+465	thecoloradoherald.com	low	492,001	 	-0.60	unknown	unverified	The Colorado Herald
+466	thecommonsenseshow.com	very-low	86,879	 	-0.92	low	problematic	The Common Sense Show
+467	theconservativecentral.com	low	4,442,184	 	0.00	low	 	The Conservative Central
+468	theconservativetreehouse.com	low	20,132	 	-0.79	low	problematic	The Last Refuge
+469	thecovidworld.com	very-low	181,051	 	-0.14	 	 	The Covid World
+470	thedailybell.com	low	552,145	 	0.46	low	 	The Daily Bell
+471	thedailyconspiracy.com	low	561,490	 	0.00	low	problematic	The Daily Conspiracy
+472	thedailysheeple.com	low	106,904	 	-0.30	low	problematic	The Daily Sheeple
+473	thedcpatriot.com	low	167,952	 	-1.00	unknown	unverified	The DC Patriot
+474	theduran.com	low	52,229	 	-0.40	low	problematic	The Duran
+475	theexpose.uk	very-low	125,672	 	0.60	unknown	 	The Daily Expose
+476	thefederalistpapers.org	low	138,049	 	-0.70	low	unverified	The Federalist Papers Project
+477	theforbiddenknowledge.com	low	4,664,670	 	-0.09	low	 	The Forbidden Knowledge
+478	thefreedomtimes.com	low	1,178,635	 	0.00	low	 	The Freedom Times
+479	thefreethoughtproject.com	low	37,928	 	-0.50	low	problematic	Free Thought Project
+480	thefullertoninformer.com	very-low	241,178	 	 	unknown	problematic	The Fullerton Informer
+481	thegatewaypundit.com	very-low	7,661	W	-0.88	low	problematic	The Gateway Pundit
+482	thegoldwater.com	low	357,615	 	-0.18	low	 	The Goldwater
+483	thehealthyamerican.org	very-low	316,856	 	0.00	unknown	problematic	The Healthy American
+484	thehighwire.com	low	331,493	 	0.00	low	problematic	The Highwire
+485	thehornnews.com	low	78,597	 	0.54	unknown	problematic	The Horn
+486	theirishsentinel.com	very-low	937,659	 	-0.60	 	 	Irish Sentinel
+487	thelaughclub.net	low	719,565	 	-1.00	unknown	unverified	The Laugh Club
+488	thelibertybeacon.com	low	481,121	 	-0.80	low	problematic	The Liberty Beacon
+489	themillenniumreport.com	low	141,466	 	-1.00	low	unverified	The Millennium Report
+490	themindunleashed.com	low	55,312	 	-0.99	low	problematic	The Mind Unleashed
+491	thenationalpatriot.com	low	5,285,941	 	0.00	unknown	 	The National Patriot
+492	thepatriotnation.net	low	598,241	 	-0.60	low	 	The Patriot Nation
+493	thepublicdiscourse.com	low	231,465	W	0.26	unknown	unverified	Witherspoon Institute
+494	thepuristonline.com	low	782,960	 	 	unknown	problematic	The Purist
+495	theragingpatriot.org	low	427,826	 	 	unknown	 	The Raging Patriot
+496	theredelephants.com	very-low	514,410	 	0.00	unknown	 	The Red Elephants
+497	thereligionofpeace.com	low	208,662	 	0.28	unknown	 	The Religion of Peace
+498	therightstuff.biz	very-low	36,434	 	-0.20	low	 	The Right Stuff
+499	therundownlive.com	low	7,394,713	 	-1.00	low	problematic	The Rundown Live
+500	thespectator.info	very-low	1,515,768	 	1.00	low	 	TheSpectator.info
+501	thetruedefender.com	low	56,048	 	-0.28	unknown	 	The True Defender
+502	thetruereporter.com	low	77,376	 	-1.00	unknown	 	The True Reporter
+503	thetruthaboutcancer.com	low	48,603	 	-0.71	low	problematic	The Truth about Cancer
+504	thetruthseeker.co.uk	low	75,766	 	-0.76	low	problematic	The Truth Seeker
+505	thetruthvoice.net	low	4,511,804	 	-0.60	unknown	 	The Truth Voice
+506	theunionjournal.com	low	92,758	 	0.00	low	unverified	The Union Journal
+507	thevaccinereaction.org	low	513,174	 	-0.60	low	problematic	The Vaccine Reaction
+508	thewashingtonstandard.com	low	81,447	 	-1.00	low	problematic	The Washington Standard
+509	thinkamericana.com	low	331,448	 	-1.00	unknown	 	Think Americana
+510	thinkinghumanity.com	low	121,377	 	0.56	low	problematic	Thinking Humanity
+511	thinkingmomsrevolution.com	low	761,315	 	-0.64	low	problematic	Thinking Mom's Revolution
+512	thoughtcrimeradio.net	very-low	3,286,305	 	0.00	low	problematic	Thought Crime Radio
+513	thrivemovement.com	low	372,738	 	0.76	low	problematic	Thrive Movement
+514	torontotoday.net	low	315,206	 	-1.00	unknown	unverified	Toronto Today
+515	tpusa.com	low	506,498	W	-0.44	unknown	unverified	Turning Point USA
+516	treason.news	very-low	1,580,032	 	0.60	low	 	Treason News
+517	triggerreset.net	low	7,474,885	 	0.00	unknown	 	Trigger Reset
+518	trueactivist.com	low	178,800	 	-0.30	low	unverified	Center for Immigration Studies
+519	truepundit.com	low	22,078	 	-0.99	low	problematic	True Pundit
+520	trueviralnews.com	very-low	1,045,548	 	0.00	low	 	True Viral News
+521	trump.news	low	2,667,495	W	0.22	unknown	 	Trump.news
+522	trunews.com	low	224,850	W	0.28	low	problematic	TruNews
+523	truthandaction.org	low	455,179	 	-0.95	low	unverified	Truth and Action
+524	truthinmedia.com	low	706,903	W	0.24	low	 	Truth in Media
+525	truthmonitor.com	low	8,419,364	 	0.00	unknown	 	Truth Monitor
+526	truthuncensored.net	low	1,891,616	 	0.00	unknown	problematic	Truth Uncensored
+527	twisted.news	very-low	20,000,000	W	0.00	low	problematic	Twisted News
+528	ukcolumn.org	low	267,164	 	0.28	low	problematic	UK Column
+529	unclesamsmisguidedchildren.com	low	242,476	 	-0.50	low	 	Uncle Sam's Misguided Children
+530	uncoverdc.com	low	103,080	 	-0.59	low	unverified	UncoverDC
+531	understandingthethreat.com	low	1,957,091	 	-0.16	unknown	 	Understanding the threat
+532	uniteamericafirst.com	low	287,133	 	0.00	low	 	Unite America First
+533	unz.com	low	29,291	W	-0.29	low	unverified	The Unz Review
+534	us24news.com	low	1,016,124	 	0.00	low	 	24 News
+535	usahitman.com	low	684,861	 	-0.47	low	problematic	USA Hitman
+536	usaisonline.com	very-low	20,000,000	 	0.00	low	 	USA is Online
+537	usareally.com	very-low	1,258,926	 	0.00	low	 	USA Really
+538	usasupreme.com	very-low	9,648,203	 	-0.76	low	problematic	USA Supreme
+539	usawatchdog.com	low	145,796	 	-0.20	low	problematic	USAWatchdog.com
+540	usbacklash.org	very-low	5,982,172	 	0.00	unknown	 	US Backlash
+541	uschronicle.com	low	451,052	 	-1.00	unknown	unverified	US Chronicle
+542	uslibertywire.com	low	606,948	 	0.00	unknown	 	US Liberty Wire
+543	ussanews.com	low	101,190	 	0.02	medium	problematic	USSA News
+544	vaccineimpact.com	very-low	162,777	 	0.00	low	problematic	Vaccine Impact
+545	vaccines.news	very-low	718,243	W	0.00	low	problematic	Vaccine News
+546	vaccinesafety.info	very-low	2,079,852	 	 	unknown	 	Vaccine Safety Info
+547	vaccinesrevealed.com	very-low	288,363	 	-1.00	unknown	problematic	Vaccines Revealed
+548	vactruth.com	low	1,191,591	 	-0.96	low	problematic	VacTruth.com
+549	vaxxter.com	low	256,533	 	-1.00	low	problematic	Vaxxter
+550	vdare.com	low	109,719	W	-0.47	low	 	Vdare
+551	veteranstoday.com	very-low	36,989	 	-0.36	low	problematic	Veterans Today
+552	vidmax.com	low	44,301	 	0.18	unknown	 	Vidmax
+553	vigilantcitizen.com	low	62,302	 	-0.77	low	problematic	Vigilant Citizen
+554	viralhatch.com	low	859,520	 	0.00	low	 	Viral Hatch
+555	viralnewsnetwork.net	low	9,419,055	 	-1.00	low	problematic	Viral News Network
+556	votefraud.news	very-low	1,408,130	 	0.00	low	 	Vote Fraud News
+557	wakeup-world.com	low	119,968	 	0.32	low	 	Wake Up World
+558	wakingtimes.com	low	91,606	 	-0.86	low	problematic	The Waking Times
+559	wallbuilders.com	low	644,079	W	0.48	unknown	 	WallBuilders
+560	waronfakes.com	very-low	131,761	 	0.60	unknown	 	War on Fakes
+561	wattsupwiththat.com	low	43,516	W	-0.34	low	problematic	Watts Up with that
+562	waynedupree.com	low	5,122	 	0.00	low	problematic	WayneDupree.com
+563	welovetrump.com	very-low	28,143	 	-0.10	medium	 	We Love Trump
+564	westernjournal.com/commentary	very-low	1,094	W	 	 	 	Conservative Tribune
+565	westonaprice.org	low	205,392	W	0.70	low	problematic	Weston A. Price Foundation
+566	whale.to	low	149,513	 	-0.20	low	problematic	Whale.to
+567	whatreallyhappened.com	very-low	45,622	 	-0.50	low	problematic	What Really Happened
+568	whitehouse.news	very-low	1,857,487	 	0.00	low	 	WhiteHouse.News
+569	whydontyoutrythis.com	low	211,779	 	-0.43	low	problematic	Why Don't You Try This
+570	wnd.com	low	6,067	W	-0.57	low	problematic	World Net Daily
+571	worldaffairsbrief.com	very-low	1,750,897	W	0.32	low	problematic	World Affairs Brief
+572	worlddoctorsalliance.com	very-low	581,498	 	0.00	unknown	 	World Doctors Alliance
+573	worldgreynews.com	very-low	703,611	 	 	unknown	 	Fake News Generator
+574	worldhealth.net	low	260,256	 	0.72	low	problematic	WorldHealth.Net
+575	worldlifestyle.com	low	22,609	 	 	unknown	 	World Lifestyle
+576	worldtribune.com	low	62,050	 	0.60	unknown	 	World Tribune
+577	worldtruth.tv	very-low	160,990	W	-0.76	low	problematic	World Truth TV
+578	x22report.com	low	172,647	 	-0.59	low	problematic	X22 Report
+579	yaliberty.org	low	657,931	W	0.54	unknown	 	Young Americans for Liberty
+580	yesimright.com	low	1,510,426	 	-1.00	low	unverified	Yes I'm Right
+581	z3news.com	very-low	131,055	 	0.00	unknown	 	Z3 News
+582	zenith.news	low	1,350,732	 	0.00	unknown	 	Zenith News
+583	zerohedge.com	low	1,812	W	-0.80	low	problematic	Zerohedge
