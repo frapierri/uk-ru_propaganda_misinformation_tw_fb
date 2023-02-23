@@ -21,4 +21,4 @@ Contact: francesco <i>dot</i> pierri <i>at</i> polimi <i>dot</i> it
 
 ## Acknowledgements
 
-Work supported in part by DARPA (contract \#HR001121C0169) and PRIN grant HOPE (FP6, Italian Ministry of Education). We are thanful for Emily Chen for kindly providing access to Twitter data.
+Work supported in part by DARPA (contract \#HR001121C0169) and PRIN grant HOPE (FP6, Italian Ministry of Education). We are thanful to Emily Chen for kindly providing access to Twitter data.
